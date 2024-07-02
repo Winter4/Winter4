@@ -22,14 +22,9 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
-  <img src="https://github-profile-trophy.vercel.app?username=Winter4&theme=gruvbox&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" style="margin-right: 20px;" />
-  <img src="https://s12.gifyu.com/images/SrB5r.gif" height="150" alt="GIF" style="margin-left: 20px;" />
-</div>
+<img align="right" height="200" src="https://s12.gifyu.com/images/SrB5r.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Winter4/Winter4/output/snake.svg" alt="Snake animation" />
 
