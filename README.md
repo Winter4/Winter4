@@ -23,9 +23,3 @@
 ###
 
 <img align="right" height="200" src="https://s12.gifyu.com/images/SrB5r.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Winter4/Winter4/output/snake.svg" alt="Snake animation" />
-
-###
